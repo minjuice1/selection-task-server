@@ -1,9 +1,17 @@
-20220901	20:07:22	e024f317-1eff-4849-90db-6d5d774d80db	/new-page.html	GET
-20220901	20:07:22	9936435d-8aaa-41ea-a541-68144e1d99d3	/css/styles.css	GET
-20220901	20:07:22	cef9f457-3503-49e3-8564-d7628f84457a	/img/img1.png	GET
-20220901	20:08:18	bff45672-c370-46bb-b351-d35155f966de	/new-page.html	GET
-20220901	20:08:55	e5e60df9-a7ab-470b-a4c4-9f692708595a	/new-page.html	GET
-20220901	20:08:55	35cf921d-b586-4bfd-b879-7d746c43d02c	/css/styles.css	GET
-20220901	20:08:55	654168ea-8f66-48a7-b6d2-042e057308f5	/img/img1.png	GET
-20220901	20:09:01	bbaf8cd6-cb02-4ec6-9fba-8bcfe975ddee	/	GET
-20220901	20:09:01	8ec4306f-1009-439f-a948-4dc38ea6b010	/css/styles.css	GET
+20220902	15:05:54	d87886f0-a7f1-42b5-92ef-86b5fbe7a167	OPTIONS	https://www.google.com	/
+20220902	15:05:54	96801e8a-18a4-4099-8809-2c6f0eca7f16	GET	https://www.google.com	/
+20220902	15:07:09	275e6b77-af27-439d-b81c-f2231c801b50	OPTIONS	https://www.google.com	/
+20220902	15:07:09	2923c01e-b88c-41a8-8224-107ec53dafe1	GET	https://www.google.com	/
+20220902	15:07:22	3ad0cb07-4331-4a6e-9f25-197a3b6feb9c	OPTIONS	https://www.google.com	/
+20220902	15:07:22	934d682d-1fcd-4f1d-a426-45c1dc34a675	GET	https://www.google.com	/
+20220902	15:16:09	eda23054-0e58-4716-8549-e8689962a0bd	GET	undefined	/
+20220902	15:17:14	06def97c-2635-4017-9373-34a42b78d239	GET	undefined	/
+20220902	15:17:14	ede5ba55-1f37-4364-9a4e-35c0d0559383	GET	undefined	/css/styles.css
+20220902	15:34:23	707ac575-5059-4f8f-b67d-d3ab53bd54fc	GET	undefined	/
+20220902	15:35:01	cf47096d-cfb6-49c2-9b2e-d3c82a1d5955	GET	undefined	/
+20220902	15:35:01	3841ae4c-fc47-4907-adf4-b4e865f81253	GET	undefined	/css/styles.css
+20220902	15:37:44	452f6397-14fa-4245-ab8e-109c31f273e2	GET	undefined	/
+20220902	15:37:45	b8fa9606-767d-464c-a598-ef717ab3e8a6	GET	undefined	/css/styles.css
+20220902	15:37:49	5049ead9-f285-461a-8045-c57a28348314	GET	undefined	/err
+20220902	15:40:58	39ec5d56-4c61-4979-8e5d-4949f3d9d577	GET	undefined	/err
+20220902	15:40:58	1cd985f0-e997-4e72-99d3-c19b05d9d0ec	GET	undefined	/css/styles.css
