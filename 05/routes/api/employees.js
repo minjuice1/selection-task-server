@@ -8,13 +8,15 @@ const {
 	deleteEmployees,
 	getEmployee,
 } = employeesController;
+const ROLES_LIST = require("../../config/roles_list");
+const verifyRoles = require("../../middleware/verifyRoles");
 
 router
 	.route("/") //
 	.get(getAllEmployees)
-	.post(createNewEmployees)
-	.put(updateEmployees)
-	.delete(deleteEmployees);
+	.post(verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor), createNewEmployees)
+	.put(verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor), updateEmployees)
+	.delete(verifyRoles(ROLES_LIST.Admin), deleteEmployees);
 
 router
 	.route("/:id") //
